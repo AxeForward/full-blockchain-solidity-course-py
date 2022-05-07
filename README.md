@@ -1,17 +1,7 @@
 *Big Update*: [New Rinkeby Faucet Located Here](https://faucets.chain.link/rinkeby).
 You can find [Backup Faucets here](https://docs.chain.link/docs/link-token-contracts/#rinkeby).
 
-[YouTube Video](https://www.youtube.com/watch?v=M576WGiDBdQ)
-
-<br/>
-<p align="center">
-<a href="https://www.youtube.com/watch?v=M576WGiDBdQ" target="_blank">
-<img src="./img/youtube_thumbnail.jpeg" width="350" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial">
-</a>
-</p>
-<br/>
-
-Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition FreeCodeCamp course!
+### This repository only contains links.
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -256,6 +246,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [Linux Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 - Compiling in Python
 - [py-solc-x](https://pypi.org/project/py-solc-x/)
+  
   - compile_standard
 - Colorized Brackets
 - JSON ABI 
@@ -279,12 +270,14 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - Signing the Transaction
 - NEVER put your private key directly in your code
 - [Setting Environment Variables (Windows, Linux, MacOS)](https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html)
+  
   - [More on Windows Environment Variables](https://www.youtube.com/watch?v=tqWDiu8a4gc&t=40s)
 - Exported Environment Variables Only Last the Duration of the Shell/Terminal
 - Private Key PSA
 - .env file
 - .gitignore
 - Loading .env File in Python
+  
   - [python-dotenv](https://pypi.org/project/python-dotenv/)
 - Viewing our Transaction / Deployment in Ganache
 - Waiting for Block Confirmations
